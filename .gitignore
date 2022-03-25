@@ -2,3 +2,5 @@ node_modules
 assets/css/*.css
 .DS_STORE
 .history
+.idea
+package-lock.json
