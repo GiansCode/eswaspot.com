@@ -1,0 +1,16 @@
+{
+    "name": "analyse-coming-soon",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "watch": "npx tailwindcss -o assets/css/style.css --watch",
+        "prod": "NODE_ENV=production npx tailwindcss -o assets/css/style.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tailwindcss": "^3.0.23"
+    }
+}
